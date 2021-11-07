@@ -14,7 +14,7 @@ wifi ku on kara
 turn on wifi
 turn on auto sync
 turn on wifi
-wifi on kijiye
+wifi on kara
 bluetooth ku aarambha kara
 please turn on bt
 g p s ku turn on kara jau
